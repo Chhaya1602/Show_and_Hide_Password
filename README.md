@@ -1,1 +1,2 @@
 # Show_and_Hide_Password
+We will create a “Password Hide and Show” feature that will allow users to toggle the visibility of their password. It will include an input field for the password and a button or icon (like an eye) to show or hide the text. Using HTML for structure, CSS for styling, and JavaScript for functionality, clicking the button will toggle the input field’s type between “password” (hidden) and “text” (visible), enhancing user experience and security.
