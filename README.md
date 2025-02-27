@@ -3,8 +3,6 @@ We will create a “Password Hide and Show” feature that will allow users to t
 UI of project looks like below,
 
 ![image](https://github.com/user-attachments/assets/93c9ed8d-750f-4c98-9a84-bca641aacfbe)
-
-
 ![image](https://github.com/user-attachments/assets/cb2c3777-68bb-453a-8d3c-4dd677c6f438)
 
 
